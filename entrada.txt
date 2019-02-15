@@ -1,0 +1,9 @@
+CHAVE, LOTACAOEMPREGADO, PRÉDIO EMPREGADO, NOME DOC IMPRESSO, NUMPAG, DATA IMP, MES_IMP, HORA IMP, NOME IMPRESSORA, MARCA IMP, PRÉDIO IMPRESSORA
+ur5d, TD/EA, EDISE, How Digital Transformation is changing our world, 13, 02/02/2019, 2, 14:14:14, Epson 3453s, EPSON, EDISE
+upmz, TIC/TIC-US/GDGAS-US, EDICIN, Enterprise Data Lakes, 20, 08/07/2018,7, 11:71:51, HP54models, HP, EDICIN
+ur5d, TD/EA, EDISE, Python for dummines, 89, 02/02/2019,2, 15:14:14, Epson 3453s, EPSON, EDISE
+ur5d, TD/EA, EDISE, relat[orio horas, 89, 02/02/2017,2, 23:14:14, HP 3453s, HP, VENTURA
+ur5d, TD/EA, EDISE, email joao, 89, 02/02/2018,2, 15:55:14, Epson 3453s, EPSON, EDISE
+ur5d, TD/EA, EDISE, foto minha filha fofinha, 1, 02/09/2016,9, 17:14:14, Epson 3453s, EPSON, EDISE
+upmz, TIC/TIC-US/GDGAS-US, EDICIN, Upstream Data Management, 45, 06/07/2017,7, 11:11:11, HP54models, HP, EDICIN
+
